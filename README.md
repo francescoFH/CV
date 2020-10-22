@@ -1,4 +1,4 @@
-## Your Name
+## Francesco Facca
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,15 +11,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**SUSHISAMBA London** (October 2016 to September 2020)  
+_Bar Manager_
 
 ## Skills
 
@@ -42,7 +35,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2020 to January 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
