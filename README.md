@@ -42,11 +42,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Istituto Tecnico Statale S. Pertini
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Building Surveyor / A levels
+  * Agricultural Science
+  * Assessment 
+  * Building Technology
+  * Civil Law
+  * Topography
+  
+- Auto Cad
 
 #### Any other qualifications
 
