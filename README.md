@@ -60,5 +60,5 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Running : Training for my first full marathon, the Richmond Marathon 2021.
-World traveling : Love to explore new countries and cultures.
+World Traveling : Love to explore new countries and cultures.
 Cooking : Going back to my Italian roots, love to spend time in the kitchen.
