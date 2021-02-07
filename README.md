@@ -1,6 +1,10 @@
 ## Francesco Facca
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am an energetic and determined Full Stack Junior Developer, looking to be part of a team where I can continue to develop my programming skills, and I am excited to learn and work with new languages.
+
+My background in one of the busiest industries, hospitality management/sales, gives me the confidence to perform well under pressure, and to work as part of a team to achieve crucial goals and deadlines. I will definitely bring these skills to my next role.
+
+After recently graduated from an intensive 16 weeks bootcamp at Makers, one of the most reputable dev bootcamps in the world, I feel that I have come a long way from an amateur coder to become the confident and enthusiastic Junior developer that I am today.
 
 ## Projects
 
@@ -46,11 +50,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Building Surveyor / A levels
   * Agricultural Science
-  * Assessment 
+  * Assessment
   * Building Technology
   * Civil Law
   * Topography
-  
+
 - Auto Cad
 
 #### Any other qualifications
