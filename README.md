@@ -23,6 +23,9 @@ One of the things that fascinates me in coding is the more I learn it, the more 
 Project | Description | Tech/Tools
 --- | --- | ---
 [SOS-App][1] | Emergency app which identifies the user-location and generates the corresponding emergency numbers for that area. It also generates a map giving directions to the closest hospitals, police stations and pharmacies | Xcode 12 and Swift 5, SwiftUIKit/SwiftUI hybrid Front & Back, Google Maps iOS SDK
+[bank-tech-test][2] | A command-line Ruby application allowing you to create a bank account, make deposits, withdraw money and print statements. The aim of this project was to focus on OOP and the TDD process | Ruby, RSpec
+[chitter-challenge][3] | A small Twitter clone that will allow the users to post messages to a public stream |  Ruby, RSpec, Sinatra, PostgreSQL
+[MakersBNB][4] | Week 5 of Makers Academy challenge to build a web application that allows users to list spaces they have available, and to hire spaces for the night | Ruby, RSpec, Sinatra, PostgreSQL
 
 *All source code available on Github: https://github.com/francescoFH
 ***
@@ -67,4 +70,7 @@ _Bar Manager_
  - Codewars: https://www.codewars.com/users/francescoFH
 
 
- [1]: https://github.com/francescoFH/SOS-App
+[1]: https://github.com/francescoFH/SOS-App
+[2]: https://github.com/francescoFH/bank-tech-test
+[3]: https://github.com/francescoFH/chitter-challenge
+[4]: https://github.com/francescoFH/BNB-Group-Challenge
