@@ -5,7 +5,7 @@ I am an energetic and determined Full Stack Junior Developer, looking to be part
 
 My background in one of the busiest industries, hospitality management/sales, gives me the confidence to perform well under pressure, and to work as part of a team to achieve crucial goals and deadlines. I will definitely bring these skills to my next role.
 
-After recently graduated from an intensive 16 weeks bootcamp at Makers, one of the most reputable dev bootcamps in the world, I feel that I have come a long way from an amateur coder to become the confident and enthusiastic Junior developer that I am today.
+After recently graduated from an intensive 16 weeks bootcamp at [Makers](https://makers.tech/), one of the most reputable dev bootcamps in the world, I feel that I have come a long way from an amateur coder to become the confident and enthusiastic Junior developer that I am today.
 ***
 
 ### <a name="skills">Skills</a>
@@ -25,7 +25,7 @@ Project | Description | Tech/Tools
 [SOS-App][1] | Emergency app which identifies the user-location and generates the corresponding emergency numbers for that area. It also generates a map giving directions to the closest hospitals, police stations and pharmacies | Xcode 12 and Swift 5, SwiftUIKit/SwiftUI hybrid Front & Back, Google Maps iOS SDK
 [bank-tech-test][2] | A command-line Ruby application allowing you to create a bank account, make deposits, withdraw money and print statements. The aim of this project was to focus on OOP and the TDD process | Ruby, RSpec
 [chitter-challenge][3] | A small Twitter clone that will allow the users to post messages to a public stream |  Ruby, RSpec, Sinatra, PostgreSQL
-[MakersBNB][4] | Week 5 of Makers Academy challenge to build a web application that allows users to list spaces they have available, and to hire spaces for the night | Ruby, RSpec, Sinatra, PostgreSQL
+[makersBNB][4] | Week 5 of Makers Academy challenge to build a web application that allows users to list spaces they have available, and to hire spaces for the night | Ruby, RSpec, Sinatra, PostgreSQL
 
 *All source code available on Github: https://github.com/francescoFH
 ***
@@ -34,10 +34,12 @@ Project | Description | Tech/Tools
 
 #### Makers Academy (October 2020 to January 2021)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- A 16 week intensive programming bootcamp.
+- The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and in teams.
+- Makers champions Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
+- Tech/Tools worked with: Ruby, Javascript, Swift, Rails, Sinatra, Xcode, PostgreSQL, TravisCI, Heroku, RSpec, Capybara, Jasmine.
+- I have become familiar with remote working, as the course pivoted to remote work during the COVID-19 lockdown.
+- Final project: [SOS-App][1] an emergency app that could save you when you're traveling the world!
 
 #### I.T.S. S. Pertini - Degree in Surveying
 
