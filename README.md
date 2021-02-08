@@ -1,6 +1,5 @@
 # Francesco Facca
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
-***
 
 I am an energetic and determined Full Stack Junior Developer, looking to be part of a team where I can continue to develop my programming skills, and I am excited to learn and work with new languages.
 
