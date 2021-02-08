@@ -53,14 +53,17 @@ Project | Description | Tech/Tools
 
 ### Experience
 
-**SUSHISAMBA London** (October 2016 to September 2020)  
+**SUSHISAMBA London** (September 2016 to September 2020)  
 _Bar Manager_
+
+**York & Albany - Gordon Ramsay Restaurants** (September 2015 to September 2016)  
+_Head Bartender_
 ***
 
 ### <a name="hobbies">Hobbies</a>
 
- - Running: Training for my first full marathon, the Richmond Marathon 2021.
- - World Traveling: Love to explore new countries and cultures.
+ - Sports: I love watch and play football, CrossFit, Ski and I am training for my first marathon running for GOSH, the Brighton Marathon 2021.
+ - Beverage: my background as Bar Manager made me loving more and more cocktails, wines and my true passion, whiskeys. I have an interesting collection of premium Japanese and Scotch whiskeys.
  - Cooking: Going back to my Italian roots, love to spend time in the kitchen.
 ***
 
