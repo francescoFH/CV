@@ -20,7 +20,9 @@ One of the things that fascinates me in coding is the more I learn it, the more 
 
 ### <a name="projects">Projects and Code</a>
 
-
+Project | Description | Tech/Tools
+--- | --- | ---
+[SOS-App][1] | Emergency app which identifies the user-location and generates the corresponding emergency numbers for that area. It also generates a map giving directions to the closest hospitals, police stations and pharmacies | Xcode 12 and Swift 5, SwiftUIKit/SwiftUI hybrid Front & Back, Google Maps iOS SDK
 
 *All source code available on Github: https://github.com/francescoFH
 ***
@@ -63,3 +65,6 @@ _Bar Manager_
  - Linkedin: https://www.linkedin.com/in/francesco-facca-7338b0156/
  - Github: https://github.com/francescoFH
  - Codewars: https://www.codewars.com/users/francescoFH
+
+
+ [1]: https://github.com/francescoFH/SOS-App
