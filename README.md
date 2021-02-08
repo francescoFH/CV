@@ -1,4 +1,5 @@
-## Francesco Facca
+# Francesco Facca
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
 
 I am an energetic and determined Full Stack Junior Developer, looking to be part of a team where I can continue to develop my programming skills, and I am excited to learn and work with new languages.
 
@@ -6,23 +7,11 @@ My background in one of the busiest industries, hospitality management/sales, gi
 
 After recently graduated from an intensive 16 weeks bootcamp at Makers, one of the most reputable dev bootcamps in the world, I feel that I have come a long way from an amateur coder to become the confident and enthusiastic Junior developer that I am today.
 
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
-## Experience
-
-**SUSHISAMBA London** (October 2016 to September 2020)  
-_Bar Manager_
-
-## Skills
+### <a name="skills">Skills</a>
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### This Skills
 
 - Experience
 - Achievements
@@ -37,7 +26,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+### <a name="projects">Projects and Code</a>
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Something else worked on** | A webapp to do y. | Ruby              |
+
+### <a name="education">Education</a>
 
 #### Makers Academy (October 2020 to January 2021)
 
@@ -46,7 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Istituto Tecnico Statale S. Pertini
+#### I.T.S. S. Pertini - Degree in Surveying
 
 - Building Surveyor / A levels
   * Agricultural Science
@@ -61,8 +57,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Experience
+
+**SUSHISAMBA London** (October 2016 to September 2020)  
+_Bar Manager_
+
+### <a name="hobbies">Hobbies</a>
 
  * Running : Training for my first full marathon, the Richmond Marathon 2021.
  * World Traveling : Love to explore new countries and cultures.
  * Cooking : Going back to my Italian roots, love to spend time in the kitchen.
+
+### <a name="contact">Contact</a>
