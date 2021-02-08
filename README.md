@@ -62,9 +62,9 @@ _Head Bartender_
 
 ### <a name="hobbies">Hobbies</a>
 
- - Sports: I love watch and play football, CrossFit, Ski and I am training for my first marathon running for GOSH, the Brighton Marathon 2021.
- - Beverage: my background as Bar Manager made me loving more and more cocktails, wines and my true passion, whiskeys. I have an interesting collection of premium Japanese and Scotch whiskeys.
- - Cooking: Going back to my Italian roots, love to spend time in the kitchen.
+ - Sports: I am fan of football, passionate of ski, and have recently start practice CrossFit. I am also training for my first marathon running for GOSH, the Brighton Marathon 2021.
+ - Beverage: I have an interest in creating cocktails. Love to learn about wines and whiskeys. I have an interesting collection of premium Japanese and Scotch whiskeys.
+ - Cooking: Going back to my Italian roots, I enjoy to spend time in the kitchen.
 ***
 
 ### <a name="contact">Contact</a>
