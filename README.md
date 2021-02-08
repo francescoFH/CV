@@ -64,8 +64,13 @@ _Bar Manager_
 
 ### <a name="hobbies">Hobbies</a>
 
- * Running : Training for my first full marathon, the Richmond Marathon 2021.
- * World Traveling : Love to explore new countries and cultures.
- * Cooking : Going back to my Italian roots, love to spend time in the kitchen.
+ - Running: Training for my first full marathon, the Richmond Marathon 2021.
+ - World Traveling: Love to explore new countries and cultures.
+ - Cooking: Going back to my Italian roots, love to spend time in the kitchen.
 
 ### <a name="contact">Contact</a>
+ - Email: francescofacca@gmail.com
+ - Phone Number: 07443305861
+ - Linkedin: https://www.linkedin.com/in/francesco-facca-7338b0156/
+ - Github: https://github.com/francescoFH
+ - Codewars: https://www.codewars.com/users/francescoFH
