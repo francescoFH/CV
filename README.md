@@ -10,7 +10,7 @@ After recently graduated from an intensive 16 weeks bootcamp at [Makers](https:/
 
 ### <a name="skills">Skills</a>
 
-- **Quick learner and Flexible** - Always worked in a multicultural environment, for me working with different challenges, with different teams, with multiple cultures makes work more interesting. I can easily learn new languages and adapt to new practices, as in my final project at Makers, that I had only two weeks to master Swift on Xcode and build a project from scratch.
+- **Quick learner and Flexible** - Always worked in a multicultural environment, for me working with different challenges, with different teams, with multiple cultures makes work more interesting. I can easily learn new languages and adapt to new practices, as in my final project at Makers, where I had only two weeks to master Swift on Xcode and build a project from scratch.
 - **Creative** - My background in Surveying and then in hospitality made me appreciate the power of creativity. I like to bring new and bold ideas to all my projects, while keeping focus on the team objectives. I have a problem-solving attitude that was useful every time a problem seemed unsolvable while working in my projects at Makers.
 - **Interested and curious minded** - I love learning, and my journey in Makers was so gratifying because I had the opportunity to learn new languages, new ways of writing clean code, and I am looking forward to continuing to develop my skills.
 - **Enthusiastic and dedicated** - When working on a new project I am always committed to enhance its potential, and to look at a problem as a new opportunity to learn.
