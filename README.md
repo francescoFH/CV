@@ -74,7 +74,6 @@ _Head Bartender_
  - Github: https://github.com/francescoFH
  - Codewars: https://www.codewars.com/users/francescoFH
 
-
 [1]: https://github.com/francescoFH/SOS-App
 [2]: https://github.com/francescoFH/bank-tech-test
 [3]: https://github.com/francescoFH/chitter-challenge
