@@ -22,12 +22,10 @@ Project | Description | Tech/Tools
 
 ### <a name="skills">Skills</a>
 
-- **Quick learner and Flexible** - Always worked in a multicultural environment, for me working with different challenges, with different teams, with multiple cultures makes work more interesting. I can easily learn new languages and adapt to new practices, as in my final project at Makers, where I had only two weeks to master Swift on Xcode and build a project from scratch.
-- **Creative** - My background in Surveying and then in hospitality made me appreciate the power of creativity. I like to bring new and bold ideas to all my projects, while keeping focus on the team objectives. I have a problem-solving attitude that was useful every time a problem seemed unsolvable while working in my projects at Makers.
+- **Quick learner and Flexible** -  Experience in working in challenging and multicultural environments, and for me that makes work more interesting. I learn new languages easily and adapt to new practices, as in my final project at Makers, where I had only two weeks to master Swift on Xcode and build a project from scratch.
 - **Interested and curious minded** - I love learning, and my journey in Makers was so gratifying because I had the opportunity to learn new languages, new ways of writing clean code, and I am looking forward to continuing to develop my skills.
 - **Enthusiastic and dedicated** - When working on a new project I am always committed to enhance its potential, and to look at a problem as a new opportunity to learn.
 One of the things that fascinates me in coding is the more I learn it, the more I want to keep learning, there is always a new way to approach a problem, and find that one tiny bug. I am always up for a new challenge.
-- **Team-player** - I have managed teams with 30+ people in my previous roles, and I consider productive teamwork essential to accomplish great things. Although I am capable to work independently, and motivate myself to reach my goals, I find that working with a team can boost any project. I am comfortable to assume the lead or to follow indications, as needed.
 ***
 
 ### <a name="education">Education</a>
@@ -41,30 +39,27 @@ One of the things that fascinates me in coding is the more I learn it, the more 
 - I have become familiar with remote working, as the course pivoted to remote work during the COVID-19 lockdown.
 - Final project: [SOS-App][1] an emergency app that could save you when you're traveling the world!
 
-#### I.T.S. S. Pertini - Degree in Surveying
-
-- Building Surveyor / A levels
-  * Agricultural Science
-  * Assessment
-  * Building Technology
-  * Civil Law
-  * Topography
-- Auto Cad
+#### I.T.S. S. Pertini (Sept 2012 to Jul 2015) Diploma in Surveying
+- My training in Surveying made me a creative person, it shaped me into an individual that brings new and bold ideas to all projects. It brought me a problem-solving attitude that is useful every time a problem seems unsolvable.
+- Had my first contact with tech, as I spent a great amount of time doing projects using Autocad, and that made me want to start to learn how to use other programs in my free time.
 
 ### Experience
 
 **SUSHISAMBA London** (September 2016 to September 2020)  
 _Bar Manager_
+- Managed teams with 30+ people, it taught me to work well alongside multicultural teams, and that productive teamwork is essential to accomplish great things.
+- Had a wide range of responsibilities and with that I learnt to work well independently, and focus to reach my goals. It made me comfortable to assume the lead or to follow indications, as required, in any project.
 
 **York & Albany - Gordon Ramsay Restaurants** (September 2015 to September 2016)  
 _Head Bartender_
+- Had the opportunity to work front and back house, be that direct contact with customers and sales, but also started taking management responsabilities.
 ***
 
 ### <a name="hobbies">Hobbies</a>
 
- - Sports: I am fan of football, passionate of ski, and have recently start practice CrossFit. I am also training for my first marathon running for GOSH, the Brighton Marathon 2021.
- - Beverage: I have an interest in creating cocktails. Love to learn about wines and whiskeys. I have an interesting collection of premium Japanese and Scotch whiskeys.
- - Cooking: Going back to my Italian roots, I enjoy to spend time in the kitchen.
+- Sports: Always practiced team sports, as football and volleyball. Both have great transferable skills, such as team work spirit, and the ability to focus on a common goal. Due to lockdown, I started practising CrossFit, at home as a way to keep my body and mind healthy, and it's also a great way to unwind after a day solving problems.
+- Codewars: I really enjoy keeping my mind sharp, playing/practicing with codewars allows me to keep challenging my problem-solving capacity, while having fun learning new ways of writing clean code.
+ - Food and Beverage: Going back to my Italian roots, I enjoy to spend time in the kitchen. Love to learn about wines and whiskeys. I have an interesting collection of premium Japanese and Scotch whiskeys.
 ***
 
 ### <a name="contact">Contact</a>
