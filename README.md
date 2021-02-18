@@ -1,7 +1,7 @@
 # Francesco Facca
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
 
-I am an energetic and determined Full Stack Junior Developer, looking to be part of a team where I can continue to develop my programming skills, and I am excited to learn and work with new languages.
+I am an energetic and determined Full Stack Junior Developer, looking to be part of a team where I can continue to develop my programming skills. I am excited to learn and work with new languages.
 
 My background in one of the busiest industries, hospitality management/sales, gives me the confidence to perform well under pressure, and to work as part of a team to achieve crucial goals and deadlines. I will definitely bring these skills to my next role.
 
@@ -15,14 +15,14 @@ Project | Description | Tech/Tools
 [SOS-App][1] | Emergency app which identifies the user-location and generates the corresponding emergency numbers for that area. It also generates a map giving directions to the closest hospitals, police stations and pharmacies | Xcode 12 and Swift 5, SwiftUIKit/SwiftUI hybrid Front & Back, Google Maps iOS SDK
 [chitter-challenge][3] | A small Twitter clone that will allow the users to post messages to a public stream |  Ruby, RSpec, Sinatra, PostgreSQL
 [bank-tech-test][2] | A command-line Ruby application allowing you to create a bank account, make deposits, withdraw money and print statements. The aim of this project was to focus on OOP and the TDD process | Ruby, RSpec
-[makersBNB][4] | Week 5 of Makers Academy challenge to build a web application that allows users to list spaces they have available, and to hire spaces for the night | Ruby on Rails, RSpec and PostgreSQL
+[makersBNB][4] | Web application that allows users to list spaces they have available, and to hire spaces for the night | Ruby on Rails, RSpec and PostgreSQL
 
 *All source code available on Github: https://github.com/francescoFH
 ***
 
 ### <a name="skills">Skills</a>
 
-- **Quick learner and Flexible** -  Experience in working in challenging and multicultural environments, and for me that makes work more interesting. I learn new languages easily and adapt to new practices, as in my final project at Makers, where I had only two weeks to master Swift on Xcode and build a project from scratch.
+- **Quick learner and Flexible** -   Experience in working efficiently in challenging and multicultural environments. I learn new languages easily and adapt to new practices, as in my final project at Makers, where I had only two weeks to master Swift on Xcode and build a project from scratch.
 - **Interested and curious minded** - I love learning, and my journey in Makers was so gratifying because I had the opportunity to learn new languages, new ways of writing clean code, and I am looking forward to continuing to develop my skills.
 - **Enthusiastic and dedicated** - When working on a new project I am always committed to enhance its potential, and to look at a problem as a new opportunity to learn.
 One of the things that fascinates me in coding is the more I learn it, the more I want to keep learning, there is always a new way to approach a problem, and find that one tiny bug. I am always up for a new challenge.
@@ -52,14 +52,13 @@ _Bar Manager_
 
 **York & Albany - Gordon Ramsay Restaurants** (September 2015 to September 2016)  
 _Head Bartender_
-- Had the opportunity to work front and back house, be that direct contact with customers and sales, but also started taking management responsabilities.
+- Had the opportunity to work front and back house, be that direct contact with customers and sales, but also started taking management responsibilities.
 ***
 
 ### <a name="hobbies">Hobbies</a>
 
-- Sports: Always practiced team sports, as football and volleyball. Both have great transferable skills, such as team work spirit, and the ability to focus on a common goal. Due to lockdown, I started practising CrossFit, at home as a way to keep my body and mind healthy, and it's also a great way to unwind after a day solving problems.
-- Codewars: I really enjoy keeping my mind sharp, playing/practicing with codewars allows me to keep challenging my problem-solving capacity, while having fun learning new ways of writing clean code.
- - Food and Beverage: Going back to my Italian roots, I enjoy to spend time in the kitchen. Love to learn about wines and whiskeys. I have an interesting collection of premium Japanese and Scotch whiskeys.
+- Sports - Always practiced team sports, as football and volleyball. Both have great transferable skills, such as team work spirit, and the ability to focus on a common goal. Due to lockdown, I started practising Crossfit at home, as a way to keep my body and mind healthy, and it's also a great way to unwind after a day solving problems.
+- Codewars - I really enjoy keeping my mind sharp, playing/practicing with codewars allows me to keep challenging my problem-solving capacity, while having fun learning new ways of writing clean code.
 ***
 
 ### <a name="contact">Contact</a>
