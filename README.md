@@ -35,9 +35,11 @@ One of the things that fascinate me in coding is the more I learn it, the more I
 - A 16-week intensive programming Bootcamp.
 - The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and in teams.
 - Makers champion Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
+- The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and teams.
+- Makers champion Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
 - Tech/Tools worked with: Ruby, Javascript, Swift, Rails, Sinatra, Xcode, PostgreSQL, TravisCI, Heroku, RSpec, Capybara, Jasmine.
 - I have become familiar with remote working, as the course pivoted to remote work during the COVID-19 lockdown.
-- Final project: [SOS-App][1] an emergency app that could save you when you're traveling the world!
+- Final project: [SOS-App][1] an emergency app that could save you when you're travelling the world!
 
 #### I.T.S. S. Pertini (Sept 2012 to Jul 2015) Diploma in Surveying
 - My training in Surveying made me a creative person, it shaped me into an individual that brings new and bold ideas to all projects. It brought me a problem-solving attitude that is useful every time a problem seems unsolvable.
@@ -47,8 +49,8 @@ One of the things that fascinate me in coding is the more I learn it, the more I
 
 **SUSHISAMBA London** (September 2016 to September 2020)  
 _Bar Manager_
-- Managed teams with 30+ people, it taught me to work well alongside multicultural teams, and that productive teamwork is essential to accomplish great things.
-- Had a wide range of responsibilities and with that I learnt to work well independently, and focus to reach my goals. It made me comfortable to assume the lead or to follow indications, as required, in any project.
+- Managed teams with 30+ people, taught me to work well alongside multicultural teams, and that productive teamwork is essential to accomplish great things.
+- Had a wide range of responsibilities and with that, I learnt to work well independently, and focus to reach my goals. It made me comfortable to assume the lead or to follow indications, as required, in any project.
 
 **York & Albany - Gordon Ramsay Restaurants** (September 2015 to September 2016)  
 _Head Bartender_
@@ -57,8 +59,8 @@ _Head Bartender_
 
 ### <a name="hobbies">Hobbies</a>
 
-- Sports - Always practiced team sports, as football and volleyball. Both have great transferable skills, such as team work spirit, and the ability to focus on a common goal. Due to lockdown, I started practising Crossfit at home, as a way to keep my body and mind healthy, and it's also a great way to unwind after a day solving problems.
-- Codewars - I really enjoy keeping my mind sharp, playing/practicing with codewars allows me to keep challenging my problem-solving capacity, while having fun learning new ways of writing clean code.
+- Sports - Always practised team sports, like football and volleyball. Both have great transferable skills, such as teamwork spirit, and the ability to focus on a common goal. Due to lockdown, I started practising Crossfit at home, as a way to keep my body and mind healthy, and it's also a great way to unwind after a day of solving problems.
+- Codewars - I enjoy keeping my mind sharp, playing/practising with codewars allows me to keep challenging my problem-solving capacity while having fun learning new ways of writing clean code.
 ***
 
 ### <a name="contact">Contact</a>
