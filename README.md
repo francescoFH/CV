@@ -12,7 +12,7 @@ After recently graduating from an intensive 16 weeks Bootcamp at [Makers](https:
 
 Project | Description | Tech/Tools
 --- | --- | ---
-[SOS-App][1] | An emergency app which identifies the user-location and generates the corresponding emergency numbers for that area. It also generates a map giving directions to the closest hospitals, police stations and pharmacies | Xcode 12 and Swift 5, SwiftUIKit/SwiftUI hybrid Front & Back, Google Maps iOS SDK
+[SOS-App][1] | An emergency app that identifies the user-location and generates the corresponding emergency numbers for that area. It also generates a map giving directions to the closest hospitals, police stations and pharmacies | Xcode 12 and Swift 5, SwiftUIKit/SwiftUI hybrid Front & Back, Google Maps iOS SDK
 [chitter-challenge][3] | A small Twitter clone that will allow the users to post messages to a public stream |  Ruby, RSpec, Sinatra, PostgreSQL
 [bank-tech-test][2] | A command-line Ruby application allowing you to create a bank account, make deposits, withdraw money and print statements. This project aimed to focus on OOP and the TDD process | Ruby, RSpec
 [makersBNB][4] | Web application that allows users to list spaces they have available, and to hire spaces for the night | Ruby on Rails, RSpec and PostgreSQL
@@ -25,14 +25,14 @@ Project | Description | Tech/Tools
 - **Quick learner and Flexible** -   Experience in working efficiently in challenging and multicultural environments. I learn new languages easily and adapt to new practices, as in my final project at Makers, where I had only two weeks to master Swift on Xcode and build a project from scratch.
 - **Interested and curious-minded** - I love learning, and my journey in Makers was so gratifying because I had the opportunity to learn new languages, new ways of writing clean code, and I am looking forward to continuing to develop my skills.
 - **Enthusiastic and dedicated** - When working on a new project I am always committed to enhance its potential, and to look at a problem as a new opportunity to learn.
-One of the things that fascinates me in coding is the more I learn it, the more I want to keep learning, there is always a new way to approach a problem, and find that one tiny bug. I am always up for a new challenge.
+One of the things that fascinate me in coding is the more I learn it, the more I want to keep learning, there is always a new way to approach a problem, and find that one tiny bug. I am always up for a new challenge.
 ***
 
 ### <a name="education">Education</a>
 
 #### Makers Academy (October 2020 to January 2021)
 
-- A 16-week intensive programming bootcamp.
+- A 16-week intensive programming Bootcamp.
 - The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and in teams.
 - Makers champion Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
 - Tech/Tools worked with: Ruby, Javascript, Swift, Rails, Sinatra, Xcode, PostgreSQL, TravisCI, Heroku, RSpec, Capybara, Jasmine.
