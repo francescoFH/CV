@@ -35,8 +35,6 @@ One of the things that fascinate me in coding is the more I learn it, the more I
 - A 16-week intensive programming Bootcamp.
 - The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and in teams.
 - Makers champion Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
-- The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and teams.
-- Makers champion Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
 - Tech/Tools worked with: Ruby, Javascript, Swift, Rails, Sinatra, Xcode, PostgreSQL, TravisCI, Heroku, RSpec, Capybara, Jasmine.
 - I have become familiar with remote working, as the course pivoted to remote work during the COVID-19 lockdown.
 - Final project: [SOS-App][1] an emergency app that could save you when you're travelling the world!
