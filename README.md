@@ -48,7 +48,7 @@ One of the things that fascinate me in coding is the more I learn it, the more I
 **SUSHISAMBA London** (September 2016 to September 2020)  
 _Bar Manager_
 - Managed teams with 30+ people, taught me to work well alongside multicultural teams, and that productive teamwork is essential to accomplish great things.
-- Had a wide range of responsibilities and with that, I learnt to work well independently, and focus to reach my goals. It made me comfortable to assume the lead or to follow indications, as required, in any project.
+- Had ad a wide range of responsibilities and with that, I learnt to work well independently, and focus to reach my goals. It made me comfortable assuming the lead or following indications, as required, in any project.
 
 **York & Albany - Gordon Ramsay Restaurants** (September 2015 to September 2016)  
 _Head Bartender_
